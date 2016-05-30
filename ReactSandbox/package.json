@@ -1,0 +1,21 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "To complete the installation of System.Web.Optimization.React, you need to create one or more\r bundles containing your JSX files:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "-vs-binding": {
+    "BeforeBuild": [
+      "install"
+    ]
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "showdown": "^1.4.1"
+  }
+}

@@ -1,0 +1,12 @@
+﻿@model IList<ReactSandbox.Models.CommentModel>
+
+@{
+    ViewBag.Title = "Comments";
+}
+
+@Html.React("CommentBox", new
+{
+    initialData = Model,
+    url = "/comments/all",
+    submitUrl = "/comments/add-comment",
+})

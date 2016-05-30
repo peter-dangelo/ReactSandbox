@@ -1,0 +1,128 @@
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ClearScript.V8\v8-ia32.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ClearScript.V8\v8-x64.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\csc.exe
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\vbc.exe
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ReactSandbox.dll.config
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ReactSandbox.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ReactSandbox.pdb
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Antlr3.Runtime.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ClearScript.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\JSPool.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\MsieJavaScriptEngine.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Newtonsoft.Json.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Core.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Web.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Web.Mvc4.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Helpers.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Mvc.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.React.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Razor.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Razor.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\VroomJs.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\WebActivatorEx.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\WebGrease.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Antlr3.Runtime.pdb
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\JSPool.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\Newtonsoft.Json.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Core.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Web.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\React.Web.Mvc4.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.React.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Razor.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Razor.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Helpers.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\System.Web.Mvc.xml
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.dll
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.pdb
+C:\Users\Peted'Angelo\Dropbox (Personal)\Code\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.csprojResolveAssemblyReference.cache
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ClearScript.V8\v8-ia32.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ClearScript.V8\v8-x64.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\csc.exe
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\vbc.exe
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ReactSandbox.dll.config
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ReactSandbox.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ReactSandbox.pdb
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Antlr3.Runtime.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ClearScript.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.Core.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\JavaScriptEngineSwitcher.V8.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\JSPool.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\MsieJavaScriptEngine.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Newtonsoft.Json.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Core.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Web.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Web.Mvc4.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Helpers.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Mvc.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.React.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Razor.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Deployment.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Razor.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\VroomJs.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\WebActivatorEx.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\WebGrease.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Antlr3.Runtime.pdb
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\JSPool.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\Newtonsoft.Json.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Core.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Web.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\React.Web.Mvc4.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Optimization.React.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Razor.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Deployment.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Webpages.Razor.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Helpers.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Mvc.xml
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.csprojResolveAssemblyReference.cache
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.dll
+C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.pdb
