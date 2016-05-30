@@ -123,6 +123,5 @@ C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\System.Web.Mvc.xml
 C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
 C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
 C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\bin\ru-ru\MsieJavaScriptEngine.resources.dll
-C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.csprojResolveAssemblyReference.cache
 C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.dll
 C:\GitHub\MyRepos\ReactSandbox\ReactSandbox\obj\Debug\ReactSandbox.pdb
