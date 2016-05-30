@@ -1,0 +1,10 @@
+﻿@model ReactSandbox.Models.ProductsModel
+
+@{
+    ViewBag.Title = "Products";
+}
+
+@Html.React("FilterableProductTable", new
+{
+    products = Model.Products,
+})

@@ -7,6 +7,9 @@ namespace ReactSandbox.App_Start
     {
         public static void RegisterBundles(BundleCollection bundles)
         {
+            bundles.Add(new StyleBundle("~/bundles/styles").Include(
+                "~/node_modules/bootstrap/dist/css/bootstrap.css"));
+
             bundles.Add(new ScriptBundle("~/bundles/third-party").Include(
                        "~/Scripts/showdown.js"));
 

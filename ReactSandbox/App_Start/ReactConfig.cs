@@ -14,15 +14,16 @@ namespace ReactSandbox
             // See http://reactjs.net/ for more information. Example:
 		    ReactSiteConfiguration.Configuration
                 .AddScript("~/Scripts/showdown.js")
-		        .AddScript("~/Scripts/JSX/comments.jsx");
+		        .AddScript("~/Scripts/JSX/comments.jsx")
+                .AddScript("~/Scripts/JSX/products.jsx");
 
-		    // If you use an external build too (for example, Babel, Webpack,
-		    // Browserify or Gulp), you can improve performance by disabling 
-		    // ReactJS.NET's version of Babel and loading the pre-transpiled 
-		    // scripts. Example:
-		    //ReactSiteConfiguration.Configuration
-		    //	.SetLoadBabel(false)
-		    //	.AddScriptWithoutTransform("~/Scripts/bundle.server.js")
-		}
+            // If you use an external build too (for example, Babel, Webpack,
+            // Browserify or Gulp), you can improve performance by disabling 
+            // ReactJS.NET's version of Babel and loading the pre-transpiled 
+            // scripts. Example:
+            //ReactSiteConfiguration.Configuration
+            //	.SetLoadBabel(false)
+            //	.AddScriptWithoutTransform("~/Scripts/bundle.server.js")
+        }
 	}
 }
